@@ -1,1 +1,7 @@
-hi hello
+<<<<<<< HEAD
+yyyyyy
+=======
+ls
+ cat
+
+>>>>>>> br1
